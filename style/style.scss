@@ -1,0 +1,66 @@
+#sobre-mi {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#estudios {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.is-shady {
+    background: #fff;
+    box-shadow: rgba(0, 0, 0, .1) 0 1px 0;
+    border-radius: 4px;
+}
+.is-shady:hover {
+    box-shadow: 0 10px 16px rgba(0, 0, 0, .13), 0 6px 6px rgba(0, 0, 0, .19);
+    }
+
+#tags {
+    justify-content: center;
+}
+
+#resume {
+    text-align: center;
+}
+
+#portafolio {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.content {
+    text-align: center;
+}
+
+.card-header {
+    text-align: center;
+}
+
+#tarjeta, #skills {
+    box-shadow: 0 0.5em 1em -0.125em;
+    box-sizing: unset;
+}
+
+#iconoF, #iconoJ, #iconoP, #iconoI{
+    margin-bottom: 20px;
+}
+
+.card-header {
+    p {
+        display: unset;
+    }
+}
+
+.progress {
+    color: pink;
+}
+
+#titulo {
+    position: absolute;
+}
+
+#subtitulo {
+    display: none;
+}
