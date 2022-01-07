@@ -76,17 +76,19 @@ function fillProgress5() {
 	progressArr5.forEach(function(num, index) {
 		
 		setTimeout(function() {
-			$('#back-progr').val(num);
+			$('#vue-progr').val(num);
 		}, 200 * index);
 	});   
 };
+
+let progressArr6 = [5, 15, 30, 40, 50];
 
 function fillProgress6() {
 	
 	progressArr6.forEach(function(num, index) {
 		
 		setTimeout(function() {
-			$('#vue-progr').val(num);
+			$('#back-progr').val(num);
 		}, 200 * index);
 	});   
 };
