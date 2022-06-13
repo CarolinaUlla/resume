@@ -58,13 +58,13 @@ function fillProgress3() {
 	});	 
 };
 
-let progressArr4 = [5, 15, 30, 40, 60, 65, 80, 85];
+let progressArr4 = [5, 15, 30, 40, 60, 65, 70];
 
 function fillProgress4() {
 	
 	progressArr4.forEach(function(num, index) {
 		setTimeout(function() {
-			$('#jq-progr').val(num);
+			$('#rt-progr').val(num);
 		}, 200 * index);
 	});
 ;}
