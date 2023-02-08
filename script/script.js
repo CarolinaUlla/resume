@@ -47,7 +47,7 @@ function fillProgress2() {
 	}); 
 };
 
-let progressArr3 = [5, 15, 30, 40, 60, 65, 80, 85];
+let progressArr3 = [5, 15, 30, 40, 60, 65, 70, 75];
 
 function fillProgress3() {
 	
@@ -58,7 +58,7 @@ function fillProgress3() {
 	});	 
 };
 
-let progressArr4 = [5, 15, 30, 40, 60, 65, 70];
+let progressArr4 = [5, 10, 20, 30, 40, 50];
 
 function fillProgress4() {
 	
@@ -81,7 +81,7 @@ function fillProgress5() {
 	});   
 };
 
-let progressArr6 = [5, 15, 30, 40, 50];
+let progressArr6 = [5, 10, 15, 20, 25];
 
 function fillProgress6() {
 	
